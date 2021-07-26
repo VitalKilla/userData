@@ -24,5 +24,9 @@
 			"username": "@Happyfeet",
 			"image url": "https://i1.sndcdn.com/avatars-000296414206-30s420-t500x500.jpg"
 		}
-	]
+	],
+	
+	"email": [{
+			"email address": "sample@gmail.com"
+		  }]
 }
