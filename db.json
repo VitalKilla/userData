@@ -67,10 +67,6 @@
 			"email address": "sample@gmail.com"
 		  }],
 	
-	"phone": [{
-			"phone number": "619-816-9876"
-		  }],
-	
 	"searchUsers": [{
 			"display name": "Jonathan",
 			"username": "@JonJonWithaFace",
